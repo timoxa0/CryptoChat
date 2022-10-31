@@ -1,2 +1,6 @@
 /CryptoChat.code-workspace
 /venv/
+/client/qtClient.build/
+/client/qtClient.build/*
+*.db
+*.bin
