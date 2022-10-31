@@ -127,6 +127,6 @@ class Ui_MainWindow(object):
         self.sendBtn.setText(QCoreApplication.translate("MainWindow", u"Send", None))
         self.statusbar.setText(QCoreApplication.translate("MainWindow", u"Status: <Not Set>", None))
         self.menuChat.setTitle(QCoreApplication.translate("MainWindow", u"Chat", None))
-        self.menuFavorites.setTitle(QCoreApplication.translate("MainWindow", u"Favorites", None))
+        self.menuFavorites.setTitle(QCoreApplication.translate("MainWindow", u"Bookmarks", None))
     # retranslateUi
 

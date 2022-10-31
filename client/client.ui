@@ -97,7 +97,7 @@
    </widget>
    <widget class="QMenu" name="menuFavorites">
     <property name="title">
-     <string>Favorites</string>
+     <string>Bookmarks</string>
     </property>
     <addaction name="actionAdd"/>
     <addaction name="actionRemove"/>

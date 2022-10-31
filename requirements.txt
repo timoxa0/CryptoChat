@@ -1,0 +1,5 @@
+pyside6
+cryptography
+nuitka
+ordered-set
+zstandard
